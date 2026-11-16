@@ -1,0 +1,16 @@
+{
+  "fetched_at_ist": "2026-11-16 09:13:41 IST",
+  "today_ist": "2026-11-16",
+  "tomorrow_ist": "2026-11-17",
+  "aq_hours": 37584,
+  "aq_start": "2022-08-05T00:00",
+  "aq_end": "2026-11-17T23:00",
+  "weather_hours": 37584,
+  "weather_start": "2022-08-05T00:00",
+  "weather_end": "2026-11-17T23:00",
+  "cpcb_bonus": {
+    "ok": true,
+    "rows": 2281,
+    "path": "C:\\Users\\Owner\\Downloads\\VeritasAIHackathon\\Code\\data\\xkdr_cpcb_delhi_oct_nov_2024.csv"
+  }
+}

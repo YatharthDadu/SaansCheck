@@ -1,0 +1,11 @@
+Code/.venv/
+Code/.idea/
+Code/.gradio/
+__pycache__/
+*.pyc
+*.pdf
+ImportantFiles.txt
+rules.txt
+Code/rules.txt
+.DS_Store
+Thumbs.db
